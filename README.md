@@ -31,7 +31,7 @@ Embarking on a transformative journey, I've transitioned from the precision-driv
 
 Outside of data science, I find solace and creativity in my artistic pursuits, whether it's painting, digital art, or exploring the latest tech innovations. This blend of art and science is not just my profession; it's my passion.
 
-🌐 Let's Connect! 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lipsitatripathy)
+🌐 **Let's Connect!**
+Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com/in/lipsitatripathy)**
 
 Whether you're interested in discussing data science, sharing artistic insights, or exploring potential collaborations, I'm just a message away. Together, let's turn data into discovery and challenges into opportunities.
