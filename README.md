@@ -1,6 +1,9 @@
-👋 Hi, I'm **Lipsita**!
+Hi there! 👋 I'm **Lipsita**, a Data Enthusiast 📊🚀
+
 🌟 Former **QA Analyst** Transitioning to **Data Scientist**
+
 🎓 Background in **Electronics and Instrumentation Engineering**
+
 Embarking on a transformative journey, I've transitioned from the precision-driven world of Quality Assurance to the dynamic and evolving realm of Data Science. My roots in Electronics and Instrumentation Engineering have provided me with a solid foundation, enabling me to approach data with an intricate blend of accuracy and innovation.
 
 🔍 As a QA Analyst, I honed my skills in meticulous testing, attention to detail, and a commitment to excellence. This experience ingrained in me the importance of reliability and precision, traits that I now carry forward into my data science endeavors.
