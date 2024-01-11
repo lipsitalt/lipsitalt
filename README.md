@@ -1,4 +1,4 @@
-👋 Hi, I'm Lipsita!
+👋 Hi, I'm **Lipsita**!
 🌟 Former **QA Analyst** Transitioning to **Data Scientist**
 🎓 Background in **Electronics and Instrumentation Engineering**
 Embarking on a transformative journey, I've transitioned from the precision-driven world of Quality Assurance to the dynamic and evolving realm of Data Science. My roots in Electronics and Instrumentation Engineering have provided me with a solid foundation, enabling me to approach data with an intricate blend of accuracy and innovation.
