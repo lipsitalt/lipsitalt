@@ -27,7 +27,9 @@ Embarking on a transformative journey, I've transitioned from the precision-driv
 
 - **Machine Learning**: Delving into the world of TensorFlow, Keras, and PyTorch to build intelligent systems.
   - 🤖 Keras, NLTK, Sci-kit Learn, PyTorch, TensorFlow
-
+ 
+- **Big Data Processing**:
+    Apache Spark, Hadoop, Hive
 
 Outside of data science, I find solace and creativity in my artistic pursuits, whether it's painting, digital art, or exploring the latest tech innovations. This blend of art and science is not just my profession; it's my passion.
 
