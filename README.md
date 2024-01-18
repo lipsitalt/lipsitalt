@@ -13,10 +13,10 @@ Embarking on a transformative journey, I've transitioned from the precision-driv
 
 🛠️ **My Toolbox Includes**:
 
-- **Programming Languages**: Proficient in Python and R, I weave data into meaningful narratives.
-  - 🐍 Python, R
+- **Programming Languages**: Proficient in Python and SQL, I weave data into meaningful narratives.
+  - 🐍 Python, R, SQL
 
-- **Data Analysis & Visualization**: Skilled in using tools like Matplotlib, Seaborn, Plotly, and Tableau to bring data to life visually.
+- **Data Analysis & Visualization**: Skilled in using tools like Matplotlib, Seaborn, Plotly, IBM Cognos Analytics, and Tableau to bring data to life visually.
   - 📊 Excel, Numpy, Pandas
   - 📈 Matplotlib, Seaborn, Tableau
 
