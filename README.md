@@ -18,7 +18,7 @@ Embarking on a transformative journey, I've transitioned from the precision-driv
 
 - **Data Analysis & Visualization**: Skilled in using tools like Matplotlib, Seaborn, Plotly, IBM Cognos Analytics, and Tableau to bring data to life visually.
   - 📊 Excel, Numpy, Pandas
-  - 📈 Matplotlib, Seaborn, Tableau
+  - 📈 Matplotlib, Seaborn, Tableau, IBM Cognos Analytics
 
 - **Database Management**: Experienced in managing databases with MySQL, ensuring data integrity and accessibility.
   - 💾 MySQL
