@@ -26,7 +26,6 @@ Embarking on a transformative journey, I've transitioned from the precision-driv
 - **Cloud Technologies**: Exploring cloud platforms like AWS and Azure for scalable data solutions.
 
 - **Machine Learning**: Delving into the world of TensorFlow, Keras, and PyTorch to build intelligent systems.
-  - 🤖 Keras, NLTK, Sci-kit Learn, PyTorch, TensorFlow
  
 - **Big Data Processing**:
     Apache Spark, Hadoop, Hive
